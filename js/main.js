@@ -1,14 +1,7 @@
 'use strict';
 // On this codelab, you will be streaming only video (video: true).
 const mediaStreamConstraints = {
-  video: {
-    width: {
-      min: 144
-    },
-    height: {
-      min: 72
-    }
-  }
+  video: true,
 };
 
 // Video element where stream will be placed.
