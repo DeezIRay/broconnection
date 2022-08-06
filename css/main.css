@@ -3,6 +3,6 @@ body {
 }
 
 video {
-  width: 1280px;
-  filter: blur(14px) opacity(0.5);
+  width: 320px;
+  filter: invert(1);
 }
