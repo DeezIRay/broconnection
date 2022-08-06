@@ -3,6 +3,6 @@ body {
 }
 
 video {
-  
-  width: 1280px;
+  max-width: 200%;
+  width: 3020px;
 }
