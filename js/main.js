@@ -3,10 +3,10 @@
 const mediaStreamConstraints = {
   video: {
     width: {
-      min: 1280
+      min: 144
     },
     height: {
-      min: 720
+      min: 72
     }
   }
 };
