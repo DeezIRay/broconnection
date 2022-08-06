@@ -3,7 +3,6 @@ body {
 }
 
 video {
-  max-width: 200%;
-  width: 320px;
+  width: 1280px;
   filter: blur(14px) opacity(0.5);
 }
